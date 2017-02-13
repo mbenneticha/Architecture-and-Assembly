@@ -1,7 +1,7 @@
 # Architecture-and-Assembly
 Programs using low-level Assemble x86 language
 
-Run and Text using Visual Studio.
+Run and Test using Visual Studio.
 
 ## Program 01
 ### Objectives:
